@@ -18,7 +18,7 @@ a{
 
 #container{
 
-  margin: 0px 10% 0px 10%;
+  margin: 0 10% 0 10%;
 
 }
 
@@ -36,8 +36,7 @@ li{
 
   text-decoration: none;
   display: inline;
-  padding: 0px 5px 0px 5px
-
+  padding: 0 5px 0 5px;
 }
 
 figure{
