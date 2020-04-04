@@ -21,5 +21,23 @@ a{
   padding: 40px;
   font-size: 40px;
   position: relative;
+}
 
+ul li{
+  list-style: none;
+  display:inline-block;
+  padding: 0, 5px, 0, 5px;
+}
+
+figure{
+  display: inline-block;
+  border:2px solid #000000;
+  box-shadow: 2px 2px 5px #000000;
+
+  padding: 5px 5px 150px 5px;
+  position: relative;
+}
+
+figcaption{
+  position: absolute;
 }
