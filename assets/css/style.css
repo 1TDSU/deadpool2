@@ -7,11 +7,10 @@ body {
 
 /*CORRIGIDO*/
 a {
-  background-color:none;
   text-decoration: none;
   color: #1b96bd;
   font-weight: 500;
-  transition: background-color 2s, color 2s;
+  transition: background-color 0.45s, color 0.45s;
 }
 
 #container {
@@ -36,7 +35,7 @@ a {
 
 /*CORRIGIDO*/
 li a:hover {
-  background-color: #a68aac;
+  background-color: #1b96bd;
   color: #fff;
 }
 
