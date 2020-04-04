@@ -1,3 +1,20 @@
+
+/*
+  Parabéns ficou show!
+  Em relação ao plus é isso mesmo.
+  O negócio é ir além.
+  O seu código é bastante limpo, deu pra entender tudo,
+  não tive dificuldades pra ler.
+
+  Um ponto de atenção:
+  Foi solicitado a realização de transição em um elemento
+  e este não foi cumprido. Sempre cumpra o solicitado. Sempre peque por
+  exagero nunca por falta.
+
+  Está no caminho certo.
+
+*/
+
 body{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   background-image: linear-gradient( #ff0000 20% , #000000 90%);
@@ -55,7 +72,7 @@ li{
 
 a{
   text-decoration: none;
-  color: black;   
+  color: black;
 }
 
 section ul li{
@@ -67,19 +84,19 @@ img{
   box-shadow: 5px 5px 5px 5px black;
   border: 2px solid black;
 }
-  
+
 #div-rodape{
   padding-top: 60px;
 }
 
 footer#rodape{
   clear: both;/*LIMPA A CONFIGURAÇÃO DOS DOIS LADOS*/
-  border-top: 1px solid rgb(230, 177, 81);   
+  border-top: 1px solid rgb(230, 177, 81);
 }
 
 footer#rodape p{
   color: white;
   text-align: center;
   font-weight: bold;
-  text-decoration: none; 
+  text-decoration: none;
 }
