@@ -1,0 +1,6 @@
+body{
+  font-family: Verdana,sans-serif;
+  background: linear-gradient(0deg , #ff0000 20% , #000000 90%);
+  background-attachment: fixed;
+  color: #ffffff;
+}
