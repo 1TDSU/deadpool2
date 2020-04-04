@@ -1,43 +1,32 @@
 body{
-
     font-family: "Verdada", sans-serif;
     background-image: linear-gradient(0deg, #ff0000 20% , #000000 90%);
     background-attachment: fixed;
-    background-position: center;
     color: #FFFFFF;
-
 }
 
 a{
-
   text-decoration: none;
   color: #1B96BD;
   font-weight: 500;
-
 }
 
 #container{
-
   margin: 0px 10% 0px 10%;
-
 }
 
 .cabecalho{
-
-  background-color: rgba(0, 0, 0, 0.5);
-  filter: opacity(0.5);
+  background-color: rgba(0, 0, 0, 0.0);
+  opacity: 0.5;
   padding: 40px;
   font-size: 40px;
   position: relative;
-
 }
 
 li{
-
-  text-decoration: none;
+  list-style: none;
   display: inline;
   padding: 0px 5px 0px 5px
-
 }
 
 figure{
