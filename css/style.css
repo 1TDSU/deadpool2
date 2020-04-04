@@ -1,3 +1,7 @@
+/*
+CORRIGIDO BY PROF.ALÊ
+*/
+
 body{
     font-family: "Verdada", sans-serif;
     background-image: linear-gradient(0deg, #ff0000 20% , #000000 90%);
@@ -5,16 +9,19 @@ body{
     color: #FFFFFF;
 }
 
-li a:hover{
-  background-color: #ff0000;
-  transition: background-color 2s;
-}
 
 a{
+  background-color:none;
   text-decoration: none;
   color: #1B96BD;
   font-weight: 500;
+  transition: background-color 2s;
 }
+
+li a:hover{
+  background-color: #ff0000;
+}
+
 
 #container{
   margin: 0px 10% 0px 10%;
