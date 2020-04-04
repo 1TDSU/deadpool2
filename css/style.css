@@ -1,9 +1,14 @@
 body{
+<<<<<<< HEAD
+=======
+
+>>>>>>> f1f16a202c45c772016876faeb400b59f8441691
     font-family: "Verdada", sans-serif;
     background-image: linear-gradient(0deg, #ff0000 20% , #000000 90%);
     background-attachment: fixed;
     background-position: center;
     color: #FFFFFF;
+<<<<<<< HEAD
 }
 
 
@@ -35,11 +40,51 @@ li{
 
 
 figure{
+=======
+
+}
+
+a{
+
+  text-decoration: none;
+  color: #1B96BD;
+  font-weight: 500;
+
+}
+
+#container{
+
+  margin: 0px 10% 0px 10%;
+
+}
+
+.cabecalho{
+
+  background-color: rgba(0, 0, 0, 0.5);
+  filter: opacity(0.5);
+  padding: 40px;
+  font-size: 40px;
+  position: relative;
+
+}
+
+li{
+
+  text-decoration: none;
+  display: inline;
+  padding: 0px 5px 0px 5px
+
+}
+
+figure{
+
+>>>>>>> f1f16a202c45c772016876faeb400b59f8441691
     display: inline-block;
     border: 2px solid black;
     box-shadow: 2px 2px 5px black;
     padding: 5px 5px 150px 5px;
     position: relative;
+<<<<<<< HEAD
 }
 
 
@@ -49,12 +94,30 @@ figcaption{
 
 
 .rodape{
+=======
+
+}
+
+figcaption{
+
+  position: absolute;
+
+}
+
+.rodape{
+
+>>>>>>> f1f16a202c45c772016876faeb400b59f8441691
   padding: 50px;
   background-color: rgba(0, 0, 0, 0.5);
   filter: opacity(0.5);
   font-size: 30px;
+<<<<<<< HEAD
 }
 
+=======
+
+}
+>>>>>>> f1f16a202c45c772016876faeb400b59f8441691
 
 p{
 
