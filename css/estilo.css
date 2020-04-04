@@ -1,6 +1,6 @@
 body{
     font-family: "Verdana", sans-serif;
-    background-image: linear-gradient(0deg #ff0000 20%, #000000 90%);
+    background-image: linear-gradient(0deg, #ff0000 20%, #000000 90%);
     background-attachment: fixed;
     background-position: center;
     color: #ffffff;
@@ -13,8 +13,10 @@ a{
 }
 
 a:hover{
+    
     color: rgb(247, 0, 115);
-    transition-delay: 1s;
+    transition: 2s;
+    transition-timing-function: ease;
     
 }
 
@@ -48,7 +50,7 @@ figure{
 
 figcaption{
     position: absolute;
-    color: rgb(0, 0, 0);
+    font-weight: 600;
 }
 
 .rodapé{
