@@ -10,14 +10,13 @@ a{
     text-decoration: none;
     color: #1B96BD;
     font-weight: 500;
+    background-color: none;
+    transition: background-color 2s;
+    border-radius: 5px;
 }
 
 a:hover{
-    
-    color: rgb(247, 0, 115);
-    transition: 2s;
-    transition-timing-function: ease;
-    
+    background-color:#6889e9;
 }
 
 #container{
@@ -37,7 +36,7 @@ li{
     text-decoration: none;
     display: inline;
     padding: 0px 5px 0px 5px ;
-    
+
 }
 
 figure{
