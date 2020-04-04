@@ -22,10 +22,11 @@ a{
   position: relative;
 }
 
-.cabeçalho ul{
+.cabeçalho li{
   list-style: none;
   display: inline;
   padding: 0 5px 0 5px;
+  transition: 0.3s;
 }
 
 figure{
@@ -47,7 +48,5 @@ figcaption{
 }
 
 li:hover {
-  transition: 2s;
-
 
 }
