@@ -5,10 +5,13 @@ body {
   color: #fff;
 }
 
+/*CORRIGIDO*/
 a {
+  background-color:none;
   text-decoration: none;
   color: #1b96bd;
   font-weight: 500;
+  transition: background-color 2s, color 2s;
 }
 
 #container {
@@ -31,10 +34,10 @@ a {
   padding: 0 5px;
 }
 
+/*CORRIGIDO*/
 li a:hover {
-  background: #1b96bd;
+  background-color: #a68aac;
   color: #fff;
-  transition: background 0.25s, color 0.2s;
 }
 
 figure {
