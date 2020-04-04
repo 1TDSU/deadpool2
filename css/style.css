@@ -1,10 +1,3 @@
-/*
-  COMENTÁRIO DO PROFESSOR:
-  Falta o HOVER e Transition
-  E existe um p vazio no fim do css!
-*/
-
-
 body{
     font-family: "Verdada", sans-serif;
     background-image: linear-gradient(0deg, #ff0000 20% , #000000 90%);
@@ -12,8 +5,9 @@ body{
     color: #FFFFFF;
 }
 
-li a{
-  transition: 2s;
+li a:hover{
+  background-color: #ff0000;
+  transition: background-color 2s;
 }
 
 a{
