@@ -30,13 +30,11 @@ li{
 }
 
 figure{
-
     display: inline-block;
     border: 2px solid black;
-    box-shadow: 2px 2px 5px black;
+    box-shadow: 5px 2px 5px 2px black;
     padding: 5px 5px 150px 5px;
     position: relative;
-
 }
 
 figcaption{
