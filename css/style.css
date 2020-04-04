@@ -26,7 +26,6 @@ a{
   list-style: none;
   display: inline;
   padding: 0 5px 0 5px;
-  transition: 0.3s;
 }
 
 figure{
@@ -47,6 +46,8 @@ figcaption{
   font-size: 30px;
 }
 
-li:hover {
-
+li a:hover{
+  color: #ffffff;
+  background-color: #000000;
+  transition: 1s;
 }
