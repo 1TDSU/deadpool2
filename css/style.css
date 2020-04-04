@@ -6,9 +6,12 @@ body {
 }
 
 a {
+    background-color: none;
     text-decoration: none;
     color: #1B96BD;
     font-weight: 500;
+    transition: background-color 0.25s, 2s;
+
 }
 
 #container {
@@ -32,9 +35,8 @@ ul li {
 }
 
 li a:hover {
-    background: #1B96BD;
+    background-color: #1B96BD;
     color: #ffffff;
-    transition: background 0.25s, color 0.2s;
 }
 
 figure {
