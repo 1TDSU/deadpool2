@@ -30,7 +30,8 @@ a{
 }
 
 li a:hover{
-  color:#FFFFFF;
+  background-color: #FF0000;
+  color:#000000;
 }
 
 .corpo figure{
